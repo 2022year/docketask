@@ -19,5 +19,4 @@ docker run -it -p 8000:8000 dockertask
 5.В браузере открыть
 http://localhost:8000
 
-логин: admin
-пароль: abc
+логин: admin    пароль: abc
