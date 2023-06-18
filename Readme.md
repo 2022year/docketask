@@ -7,7 +7,7 @@
 
 1.Установить docker,  
 2.Загружаем проект командой: 
-git clone https://github.com/... 
+git clone https://github.com/2022year/docketask
 
 3.В командной строке, переходим в директорию проекта и набираем:  
 docker build -t dockertask .
